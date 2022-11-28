@@ -18,6 +18,7 @@ header{
 }
 .langue img{
     width: 25px;
+    height: 25px;
     padding: 10px;
 }
 .dicipline{
@@ -38,6 +39,7 @@ nav a:not(.icon){
 }
 .icon img{
     width: 75%;
+    height: 75%;
 }
 body{
     background-image: url(../image/background_image_diff.png);
@@ -110,11 +112,13 @@ img:not(.icon){
     margin: 5px;
 }
 .p3{
+    height: 25%;
     width: 25%; 
     margin: 5px;
 }
 .p4{
     width:25%;
+    height: 25%;
     margin-left: 15%;
 }
 .a6{
@@ -129,7 +133,8 @@ img:not(.icon){
     margin: 5px;
 }
 .p5{
-    width: 25%; 
+    height: 25%;
+    width: 25%;
     margin: 5px;
 }
 

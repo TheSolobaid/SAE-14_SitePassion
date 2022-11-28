@@ -17,6 +17,7 @@ header{
 }
 .langue img{
     width: 25px;
+    height: 25px;
     padding: 10px;
 }
 .dicipline{
@@ -37,6 +38,7 @@ nav a:not(.icon){
 }
 .icon img{
     width: 75%;
+    height: 75%;
 }
 body{
     background-image: url(../image/background_image.png);
@@ -63,15 +65,18 @@ body{
     font-size: 25px;
 }
 .PS{
-    width: 35%;   
+    width: 35%;
+    height: 35%;
     border-radius: 25px;
 }
 .PF{
+    height: 35%;
     width: 35%;
     border-radius: 25px;
 }
 .cot{
-    width: 20%;
+    height: 80%;
+    width: 25%;
     margin-top: 5px;
 }
 .a1{

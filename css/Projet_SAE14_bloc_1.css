@@ -20,6 +20,7 @@ header{
 }
 .langue img{
     width: 25px;
+    height: 25px;
     padding: 10px;
 }
 .dicipline{
@@ -40,6 +41,7 @@ nav a:not(.icon){
 }
 .icon img{
     width: 75%;
+    height: 75%;
 }
 body{
     background-image: url(../image/bloc_background2.jpg);
@@ -73,6 +75,7 @@ img{
     margin-left: 5px;
     margin-right: 5px;
     width: calc(100%/3);
+    height: calc(100%/3);
 }
 img:not(.icon){
     border-radius: 25px;
